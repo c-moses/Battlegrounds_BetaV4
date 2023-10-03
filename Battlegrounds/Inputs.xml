@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UALeaderboardToggle" loc="Leaderboard" />
+            <input name="UAGPSToggle" loc="Battlegrounds GPS" />
+            <input name="UACompassToggle" loc="Compass" />
+            <input name="UAEarPlugsToggle" loc="EarPlugs" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="UALeaderboardToggle">
+            <btn name="kK" />
+        </input>
+        <input name="UAGPSToggle">
+            <btn name="kJ" />
+        </input>
+        <input name="UACompassToggle">
+            <btn name="kH" />
+        </input>
+        <input name="UAEarPlugsToggle">
+            <btn name="kN" />
+        </input>
+    </preset>
+</modded_inputs>
